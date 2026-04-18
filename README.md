@@ -192,9 +192,7 @@ touch app/new-page/page.tsx
 - [ ] Student portal login
 - [ ] Online exam scheduling
 - [ ] Interactive campus map
-- [ ] Live chat support
 - [ ] Multi-language support
-- [ ] Dark mode toggle
 
 ## License
 
