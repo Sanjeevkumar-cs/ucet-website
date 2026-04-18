@@ -169,21 +169,6 @@ mkdir app/new-page
 touch app/new-page/page.tsx
 ```
 
-## Deployment
-
-### Deploy to Vercel (Recommended)
-1. Push code to GitHub repository
-2. Import project in Vercel
-3. Deploy with one click
-
-### Other Platforms
-The project can be deployed to any Node.js hosting platform:
-- AWS Amplify
-- Railway
-- Render
-- Digital Ocean
-- Netlify
-
 ## Best Practices Implemented
 
 ✅ **Responsive Design**: Mobile-first approach with Tailwind responsive classes
@@ -215,9 +200,6 @@ The project can be deployed to any Node.js hosting platform:
 
 This project is created for UCET. All rights reserved.
 
-## Support
-
-For questions or support, contact: info@ucet.edu.in
 
 ---
 
