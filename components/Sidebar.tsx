@@ -11,10 +11,10 @@ import {
   FileText,
   Calendar,
   DollarSign,
-  Bus,
   Library,
   UserCheck,
   ChevronLeft,
+  Bell,
 } from "lucide-react";
 
 const NAV_ITEMS = [
@@ -27,7 +27,7 @@ const NAV_ITEMS = [
   { icon: UserCheck, label: "Student Info", href: "#" },
   { icon: DollarSign, label: "Student Fees", href: "#" },
   { icon: BookOpen, label: "Homework", href: "#" },
-  { icon: Bus, label: "Transport", href: "#" },
+  { icon: Bell, label: "Notifications", href: "/dashboard/notifications" },
   { icon: Library, label: "Library", href: "#" },
 ];
 
