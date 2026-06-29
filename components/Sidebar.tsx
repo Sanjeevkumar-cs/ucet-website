@@ -7,10 +7,11 @@ import { usePathname } from "next/navigation";
 import {
   LayoutDashboard,
   Users,
-  BookOpen,
+  UserPlus,
   FileText,
   Calendar,
   DollarSign,
+  BookOpen,
   Library,
   UserCheck,
   ChevronLeft,
@@ -26,7 +27,7 @@ const NAV_ITEMS = [
   { icon: FileText, label: "Bulk Print", href: "#" },
   { icon: UserCheck, label: "Student Info", href: "#" },
   { icon: DollarSign, label: "Student Fees", href: "#" },
-  { icon: BookOpen, label: "Homework", href: "#" },
+  { icon: UserPlus, label: "Approvals", href: "/dashboard/approvals" },
   { icon: Bell, label: "Notifications", href: "/dashboard/notifications" },
   { icon: Library, label: "Library", href: "#" },
 ];

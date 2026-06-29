@@ -265,7 +265,6 @@ export default function NotificationsManagementPage() {
                       <option value="All">All Users (Global)</option>
                       <option value="Students">Students Only</option>
                       <option value="Teachers">Teachers Only</option>
-                      <option value="Parents">Parents Only</option>
                     </select>
                   </div>
 
